@@ -1,10 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [CusomAppointmentForm.ascx](./CS/CustomFormStatusEditors/CustomForms/CusomAppointmentForm.ascx) (VB: [CusomAppointmentForm.ascx.vb](./VB/CustomFormStatusEditors/CustomForms/CusomAppointmentForm.ascx.vb))
+* [CusomAppointmentForm.ascx](./CS/CustomFormStatusEditors/CustomForms/CusomAppointmentForm.ascx) (VB: [CusomAppointmentForm.ascx](./VB/CustomFormStatusEditors/CustomForms/CusomAppointmentForm.ascx))
 * [CusomAppointmentForm.ascx.cs](./CS/CustomFormStatusEditors/CustomForms/CusomAppointmentForm.ascx.cs) (VB: [CusomAppointmentForm.ascx.vb](./VB/CustomFormStatusEditors/CustomForms/CusomAppointmentForm.ascx.vb))
 * **[Default.aspx](./CS/CustomFormStatusEditors/Default.aspx) (VB: [Default.aspx](./VB/CustomFormStatusEditors/Default.aspx))**
-* [Default.aspx.cs](./CS/CustomFormStatusEditors/Default.aspx.cs) (VB: [Default.aspx](./VB/CustomFormStatusEditors/Default.aspx))
+* [Default.aspx.cs](./CS/CustomFormStatusEditors/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/CustomFormStatusEditors/Default.aspx.vb))
 <!-- default file list end -->
 # How to show color icons for labels and statuses in the Appointment Edit Form and Popup Menu
 
